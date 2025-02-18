@@ -22,14 +22,14 @@
           </p>
   
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4 text-[#434342]">
-            <p><strong>📅 Birthday:</strong> 17 March 2002</p>
-            <p><strong>🎂 Age:</strong> 30</p>
-            <p><strong>🌐 Website:</strong> <a href="#" class="text-blue-600 hover:underline">www.example.com</a></p>
-            <p><strong>🎓 Degree:</strong> Master</p>
-            <p><strong>📞 Phone:</strong> +123 456 7890</p>
-            <p><strong>📧 Email:</strong> <a href="mailto:email@example.com" class="text-blue-600 hover:underline">email@example.com</a></p>
-            <p><strong>📍 City:</strong> New York, USA</p>
-            <p><strong>💼 Freelance:</strong> Available</p>
+            <p><strong><i class="fa-solid fa-chevron-right mr-2 text-teal-500"></i> Birthday:</strong> 17 March 2002</p>
+            <p><strong><i class="fa-solid fa-chevron-right mr-2 text-teal-500"></i> Age:</strong> 30</p>
+            <p><strong><i class="fa-solid fa-chevron-right mr-2 text-teal-500"></i> Website:</strong> <a href="#" class="text-blue-600 hover:underline">www.example.com</a></p>
+            <p><strong><i class="fa-solid fa-chevron-right mr-2 text-teal-500"></i> Degree:</strong> Master</p>
+            <p><strong><i class="fa-solid fa-chevron-right mr-2 text-teal-500"></i> Phone:</strong> +123 456 7890</p>
+            <p><strong><i class="fa-solid fa-chevron-right mr-2 text-teal-500"></i> Email:</strong> <a href="mailto:email@example.com" class="text-blue-600 hover:underline">email@example.com</a></p>
+            <p><strong><i class="fa-solid fa-chevron-right mr-2 text-teal-500"></i> City:</strong> New York, USA</p>
+            <p><strong><i class="fa-solid fa-chevron-right mr-2 text-teal-500"></i> Freelance:</strong> Available</p>
           </div>
   
           <p class="mt-6 text-gray-600">

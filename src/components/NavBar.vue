@@ -1,7 +1,7 @@
 <template>
-  <nav class="bg-[#e9e8e6] h-20 border-gray-200 dark:bg-gray-900 fixed top-0 w-full z-50 shadow-[-3px_3px_58px_0px_rgba(0,_0,_0,_0.1)]">
+  <nav class="bg-[#e9e8e6] h-[90px] border-gray-200 dark:bg-gray-900 fixed top-0 w-full z-50 shadow-[-1px_8px_100px_-3px_rgba(0,_0,_0,_0.1)]">
     <div class="flex flex-wrap items-center justify-between mx-auto p-4">
-      <a class="flex items-center space-x-3 rtl:space-x-reverse mt-2">
+      <a class="flex items-center space-x-3 rtl:space-x-reverse mt-3">
         <span class="self-center font-light text-3xl whitespace-nowrap text-[#434342] tracking-normal">ANGEL</span>
       </a>
       <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse mt-2">
